@@ -1,0 +1,136 @@
+h2{
+	font-family: "arial";
+	color: #fff;
+	
+}
+h3,p{
+	font-family: "arial";
+	
+}
+
+.wrapper{
+	width: 750px;
+	height: 1334px;
+	background-color: #1e1e1e;
+	float: left;
+}
+.nav{
+	
+	background-image: url(../img/nav-head.png);
+	background-repeat: no-repeat;
+	height: 105px;
+	width: 750px;
+	float: left;
+	
+
+}
+
+.nav i{
+	font: 10px;
+	color: #fff;
+	margin-left: 30px;
+	line-height: 2.5;
+	float: left;
+}
+
+.nav h2{
+	font-family: "arial";
+	color: #fff;
+	font-size: 38px;
+	line-height: 3;
+	margin: 0 auto;
+	margin-left: 38%;
+}
+
+.containerExc-nav{
+	width: 100%;
+	height: 1090px;
+	b/*ackground-color: red;*/
+	float: left;
+}
+.wrapCard{
+	/*width: 750px;*/
+	height: 376px;
+	margin: 35px 0 0 65px;
+
+}
+
+.card1 img{
+	border-top-left-radius: 15px;
+	border-bottom-left-radius: 15px;
+	margin-right: 15px;
+	float: left;
+
+}
+.touch{
+
+	border-radius: 50%;
+	position: absolute;
+	top: 400px;
+	right: 30px;
+	 
+	 
+}
+
+
+.touch img{
+	cursor: pointer;
+}
+.navFoot{
+	background-image: url(../img/nav-foot.png);
+	width: 100%;
+	height: 136px;
+	margin-bottom: 0px;
+	float: left;
+}
+.navTop{
+	height: 139px;
+	width: 750px;
+	/*background-color: #000;*/
+	float: left;
+}
+
+
+
+
+.menu1{
+	width: 150px;
+	height: 139px;
+	
+	float: left;
+}
+
+.menu1-icon{
+	width: 150px;
+	height: 86px;
+	float: left;
+	/*background-color: red;*/
+	text-align: center;
+	color: #666;
+}
+
+.menu1-icon img{
+	margin-top: 20px;
+
+}
+.menu1-icon i{
+	margin-top: 20px;
+}
+
+.menu1-txt{
+	height: 50px;
+	background-color: #1e1e1e;
+	font-family: "arial";
+	color: #d9d7d0;
+	font-size: 20px;
+	text-align: center;
+	line-height: 3;
+	font-weight: bolder;
+	width: 150px;
+	float: left;
+
+
+}
+
+
+

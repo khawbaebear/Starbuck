@@ -1,0 +1,313 @@
+@fa-font-path:   "../font";
+h2{
+	font-family: "arial";
+	color: #fff;
+	
+}
+h3,p{
+	font-family: "arial";
+	
+}
+
+.wrapper{
+	width: 750px;
+	height: 1334px;
+	background-color: #1e1e1e;
+}
+.nav{
+	
+	background-image: url(../img/nav-head.png);
+	background-repeat: no-repeat;
+	height: 105px;
+	width: 750px;
+	
+
+}
+
+.nav h2{
+	font-family: "arial";
+	color: #fff;
+	font-size: 38px;
+	line-height: 3;
+	margin: 0 auto;
+	margin-left: 38%;
+}
+
+.containerExc-nav{
+	width: 100%;
+	height: 1090px;
+	b/*ackground-color: red;*/
+	float: left;
+}
+
+.nav-news{
+	height: 188px;
+	width: 750px;
+	background-color: #293521;
+}
+.txtbox-news{
+	width: 676px;
+	height: 100%;
+	margin-left: 49px;
+	/*background-color: pink;*/
+	float: left;
+}
+.text-news{
+	width: 485px;
+	height: 100%;
+	float: left;
+
+}
+.text-news h2{
+	font-size: 38px;
+	color: #64a625;
+	
+	margin-bottom: 0px;
+	float: left;
+}
+.text-news h2 i{
+	margin-right: 27px;
+}
+
+.text-news h3{
+	font-size: 26px;
+	color: #fff;
+	text-transform: uppercase;
+	margin:0;
+	float: left;
+}
+.text-news h3 span{
+	font-size: 50px;
+	color: #64a625;
+	position: absolute;
+	left: 400px;
+	top: 160px;
+	margin-top: 0px;
+	
+}
+.text-news p{
+	font-size: 24px;
+	color: #999;
+	float: left;
+	margin-top: 10px;
+
+}
+.bottomReward{
+	
+	background-color: #515151;
+	font-size: 26px;
+	color: #fff;
+	font-weight: bold;
+	width: 191px;
+	height: 94px;
+	border-radius: 5px;
+	float: left;
+	margin-top: 45px;
+}
+.bottomReward a{
+	color: #fff;
+	text-decoration: none;
+}
+
+
+.wrapCard{
+	/*width: 750px;*/
+	height: 376px;
+	margin: 35px 0 0 65px;
+
+}
+
+.card1 img{
+	border-top-left-radius: 15px;
+	border-bottom-left-radius: 15px;
+	margin-right: 15px;
+	float: left;
+
+}
+.card2 img{
+	border-top-left-radius: 15px;
+	border-bottom-left-radius: 15px;
+	
+	float: right;
+
+}
+.touch{
+
+	border-radius: 50%;
+	position: absolute;
+	top: 610px;
+	right: 30px;
+	 
+	 
+}
+
+
+.touch img{
+	cursor: pointer;
+}
+
+.infoMoney{
+	height: 168px;
+	width: 100%;
+	float: left;
+	/*background-color: yellow;*/
+	
+	
+}
+
+
+.infoMoney p{
+	font-family: "angsana new";
+	font-size: 72px;
+	color: #fff;
+	margin: 40px 0 0 0px;
+	font-weight: bolder;
+}
+.infoMoney h3{
+	font-family: "arial";
+	font-size: 30px;
+	color: #fff;
+	margin-top: 0px;
+	
+
+}
+
+.boxleft{
+	height: 168px;
+	width: 353px;
+	float: left;
+	/*background-color: yellow;*/
+	margin-left: 45px;
+}
+
+.boxleft h3{
+	height: 168px;
+	width: 343px;
+	float: left;
+	font-size: 29px;
+	/*margin-left: 45px;*/
+}
+
+.boxRight{
+	width: 305px;
+	height: 168px;
+	float:right;
+	/*background-color: pink;*/
+	margin-right: 20px;
+}
+
+.boxRight p{
+	font-family: "arial";
+	font-size: 28px;
+	margin-top: 110px;
+	float: right;
+	font-weight: normal;
+	color: #64a625;
+	text-align: right;
+
+
+	
+}
+
+.wrapButton{
+	width: 100%;
+	height: 326px;
+	/*background-color: pink;*/
+	float: left;
+	
+
+}
+.wrapbtn-margin{
+	height: 100px;
+	margin-top: 40px;
+}
+.btnleft{
+	width: 185px;
+	height: 98px;
+	background-color: #515151;
+	margin-left: 155px;
+	float: left;
+}
+.btnright{
+	width: 185px;
+	height: 98px;
+	background-color: #515151;
+	margin-right: 155px;
+	float: right;
+}
+
+.hover-btn{
+	cursor: pointer;
+}
+
+.btn-font{
+	font-family: "arial";
+	background-color: #515151;
+	font-size: 26px;
+	color: #fff;
+	font-weight: bold;
+	border-radius: 5px;
+	line-height: 3.7;
+	text-align: center;
+}
+
+
+
+.navFoot{
+	background-image: url(../img/nav-foot.png);
+	width: 100%;
+	height: 136px;
+	margin-bottom: 0px;
+	float: left;
+}
+.navTop{
+	height: 139px;
+	width: 750px;
+	/*background-color: #000;*/
+	float: left;
+}
+
+
+
+
+.menu1{
+	width: 150px;
+	height: 139px;
+	
+	float: left;
+}
+
+.menu1-icon{
+	width: 150px;
+	height: 86px;
+	float: left;
+	/*background-color: red;*/
+	text-align: center;
+	color: #666;
+}
+
+.menu1-icon img{
+	margin-top: 30px;
+	background-color: #515151;
+
+
+}
+.menu1-icon i{
+	margin-top: 20px;
+}
+
+.menu1-txt{
+	height: 50px;
+	background-color: #1e1e1e;
+	font-family: "arial";
+	color: #d9d7d0;
+	font-size: 20px;
+	text-align: center;
+	line-height: 3;
+	font-weight: bolder;
+	width: 150px;
+	float: left;
+
+
+}
+
